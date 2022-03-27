@@ -1,5 +1,5 @@
 # Teoria-e-Modelo-de-Grafos
-Trabalho Prático 1 da Disciplina de Grafos - Implementação de uma biblioteca de grafos.
+Trabalho Prático 1 da Disciplina de Teoria e Modelo de Grafos - CCF 331, Implementação de uma biblioteca de grafos.
 # INTRODUÇÃO
  Este trabalho consiste na modelagem e implementação de uma biblioteca que terá como finalidade manipular grafos não direcionados ponderados. As arestas do grafo terão valores reais associados para realizar as ponderações. Esses dados serão fornecidos por meio de um arquivo de texto contendo o número de vértices e suas arestas com seus respectivos pesos.
  Além disso, deve-se projetar e implementar uma biblioteca que seja facilmente utilizada por outros programas, que seja capaz de representar grafos não-direcionados ponderados e fornecer um conjunto de algoritmos em grafos.
